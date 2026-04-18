@@ -37,7 +37,6 @@ Thumbs.db
 .streamlit/secrets.toml
 
 # Local generated artifacts
-models/*.pkl
 models/*.joblib
 models/*.bin
 data/applications_log.csv
