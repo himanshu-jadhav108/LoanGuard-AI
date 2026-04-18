@@ -587,14 +587,19 @@ This project is provided as-is for educational and demonstration purposes.
 
 ---
 
-## 👨‍💼 Author & Contact
+## 👨‍� Author
 
-**LoanGuard AI Development Team**
+**Himanshu Jadhav**
+*Second-Year Engineering Student — AI & Data Science*
 
-For questions, suggestions, or partnership inquiries:
-- 📧 Email: team@loanguard.example
-- 🐙 GitHub: [github.com/yourorg/loanguard-ai](https://github.com)
-- 💼 LinkedIn: Coming soon
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-himanshu--jadhav108-181717?style=for-the-badge&logo=github)](https://github.com/himanshu-jadhav108)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Himanshu%20Jadhav-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/himanshu-jadhav-328082339)
+[![Instagram](https://img.shields.io/badge/Instagram-himanshu__jadhav__108-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/himanshu_jadhav_108)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-F7B731?style=for-the-badge&logo=vercel)](https://himanshu-jadhav-portfolio.vercel.app/)
+
+<br/>
 
 ---
 
